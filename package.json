@@ -1,0 +1,19 @@
+{
+  "name": "autodel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-schedule": "^2.1.1",
+    "oracledb": "^6.6.0",
+    "pg": "^8.12.0"
+  }
+}
