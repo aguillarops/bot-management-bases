@@ -29,13 +29,10 @@ Certifique-se de ter as seguintes dependências instaladas:
     - Node.js (versão 20 ou superior)
     - Docker
 
-# Configurações do Banco de Dados
+# Configurações do Banco de Dados e Discord
 
-Edite as configurações de banco de dados no arquivo index.js.
-
-# Configurações do Discord
-
-Adicione seu token do Discord e o ID do canal onde deseja enviar as mensagens.
+- Edite as configurações de banco de dados no arquivo index.js.
+- Adicione seu token do Discord e o ID do canal onde deseja enviar as mensagens.
 
 # Contribuições
 
